@@ -47,7 +47,9 @@ python-essentials-workshop/
 │   └── README.md
 ├── docs/                        # Documentación adicional
 │   ├── guia_instalacion.md     # Guía de instalación de herramientas
-│   └── checklist_pre_taller.md # Lista de verificación pre-taller
+│   ├── checklist_pre_taller.md # Lista de verificación pre-taller
+│   ├── glosario_sesion1.md     # Glosario de términos de la Sesión 1
+│   └── recursos_adicionales.md # Recursos externos para seguir aprendiendo
 └── assets/                      # Recursos multimedia y archivos de apoyo
 ```
 
